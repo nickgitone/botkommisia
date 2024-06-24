@@ -1,11 +1,10 @@
-Custom License based on GNU Affero General Public License
+GNU AFFERO GENERAL PUBLIC LICENSE
 Version 3, 19 November 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
 Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed, except 
-for the additional condition mentioned below.
+of this license document, but changing it is not allowed.
 
 This version of the GNU Affero General Public License incorporates
 the terms and conditions of version 3 of the GNU General Public
@@ -191,7 +190,8 @@ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY C
 
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
-Additional Condition:
-The software may not be used as part of any personal project, diploma work, or any academic submission without explicit prior permission from the original author.
+Additional Conditions:
+1. The software may not be used as part of any personal project, diploma work, or any academic submission without explicit prior permission from the original author.
+2. The software may be used in commercial projects, but no fee or other material compensation may be charged for its use.
 
 END OF TERMS AND CONDITIONS
